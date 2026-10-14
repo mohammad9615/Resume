@@ -10,7 +10,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=1024">
 <link rel="stylesheet" href="css/r.css">
-    <title>رزومه محمدرضا حامدی </title>
+    <title>رزومه امین امینی </title>
 <meta name="description" content=" علاقه مند به برنامه نویسی و تخصص نسبی به امور انیمیشن سازی و طراحی دارم.">
 
     <meta name="robots" content="noindex, nofollow">
@@ -206,9 +206,9 @@
         <div class="property-item_body">
             <ul class="history multi-line">
                     <li>
-                        <h2 class="subtitle">کارشناسی  مهندسی کامپیوتر</h2>
-                        <h3 class="subtitle">گرایش: نرم افزار</h3>
-                                    <h3 class="subtitle">موسسه/دانشگاه: پیام نور لواسانات <label>پیام نور</label></h3>
+                        <h2 class="subtitle">کارشناسی  مدیریت </h2>
+                        <h3 class="subtitle">گرایش: </h3>
+                                    <h3 class="subtitle">موسسه/دانشگاه:  <label>پیام نور</label></h3>
                                                     <label class="date">ورودی سال  ۱۳۹۶</label>
                                                     <label class="Education-Grade">معدل : ۱۷</label>
                     </li>
